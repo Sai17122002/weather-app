@@ -1,5 +1,5 @@
 import React from "react";
-import ErrorImage from "./img/error.jpg";
+import ErrorImage from "./error.jpg";
 
 function Error() {
   return (

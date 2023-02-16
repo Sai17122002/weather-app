@@ -29,6 +29,7 @@ function Inputs({ setQuery, units, setUnits }) {
         });
       });
     }
+    setCity("");
   };
 
   return (
