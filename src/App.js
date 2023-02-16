@@ -38,7 +38,7 @@ function App() {
     fetchWeather();
   }, [query, units]);
 
-  return error === true ? (
+  return error === false ? (
     <div className="top-container">
       <TopButtons setQuery={setQuery} />
       <Inputs setQuery={setQuery} units={units} setUnits={setUnits} />
