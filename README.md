@@ -23,3 +23,6 @@ Farenheit Conversion is also possible:
 
 ![image](https://user-images.githubusercontent.com/83086649/219487165-40b23216-cca0-411b-8ab2-c2f27e482a96.png)
 
+Error Handling:
+
+![image](https://user-images.githubusercontent.com/83086649/219489189-5ee218b9-e17a-41d3-a90e-6cd443f8f97a.png)
