@@ -1,7 +1,11 @@
 To Run Project:
+
 1.Clone the repository
+
 2.open terminal and type npm install.
+
 3.Then type npm start to run the project.
+
 
 Preview:
 
